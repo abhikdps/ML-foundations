@@ -1,0 +1,7 @@
+# TO-DO: Need to keep updating the requirements file as per the course requirements.
+jupyter
+notebook
+numpy
+matplotlib
+tensorflow
+torch
